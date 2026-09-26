@@ -1,0 +1,14 @@
+1) vectorized envs for stable baselines ppo can be made like this:
+
+from stable_baselines3.common.env_util import make_vec_env 
+
+env = make_vec_env(
+    "CartPole-v1",
+    n_envs=8
+)
+
+
+
+
+
+
