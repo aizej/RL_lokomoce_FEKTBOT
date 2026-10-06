@@ -1,0 +1,1 @@
+Návrh env rolloutu: vytvoří se bludiště A* nalezne nejlepší cestu bludištěm pomocí nejlepší cesty se vygenerují pohybové vektory jak od ovladače RL se bude snažit dodržovat rychlost robota aby byla co nejpodobnější zadanému vektoru a přitom se vyhýbal překážkám na cestě (možná i pohybujícími se)
